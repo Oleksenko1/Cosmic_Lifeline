@@ -5,7 +5,7 @@ Controls:
 - Shift + A/D - move in side direction
 - LMB - shoot in direction of cursor
 
-Goal of th game:
+Goal of the game:
 - Recharge all beacons
 - Kill enemies
 - Collect gears
